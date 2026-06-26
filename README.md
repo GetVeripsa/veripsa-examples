@@ -47,9 +47,8 @@ Veripsa; jump straight to the one you need if you are not.
 - Veripsa is **advisory by default**. The check it posts is non-blocking
   unless your branch-protection policy makes it required (see
   [example 04](./examples/04-branch-protection/)).
-- Veripsa runs **same-owner per-repo** today. Cross-owner / cross-repo
-  collision surfacing is on the roadmap, not something these examples
-  promise.
+- Veripsa runs **same-owner per-repo**. Other scopes
+  are not something these examples promise.
 
 ## Cross-links
 

@@ -109,7 +109,7 @@ Read these once before flipping the required toggle.
 - **There is no SLA today.** If Veripsa's webhook processing is
   delayed by an incident, a required check holds PRs until the App
   posts. This is the central trade-off of moving off advisory mode.
-- **Cross-owner / cross-repo is not yet covered.** Veripsa runs
+- **Cross-owner / cross-repo is out of scope.** Veripsa runs
   same-owner per-repo today. Required-mode does not magically extend
   Veripsa's coverage; it just makes the existing same-owner coverage
   gate your merges.
