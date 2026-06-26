@@ -21,11 +21,10 @@ first. This mirrors what happens when two parallel agents (or two
 people) pick adjacent work without knowing about each other.
 
 > The examples-repo intentionally does not show real diffs. The
-> [`live-demo-scenarios-setup`](https://github.com/GetVeripsa/veripsa-examples/blob/main/examples/02-first-collision/README.md)
-> recipe and the [veripsa.com/try](https://veripsa.com/try) walkthrough
-> use a public sandbox to show the verdict on a concrete PR. This page
-> focuses on **what the verdict looks like** so you can recognise it
-> on your own repo.
+> [veripsa.com/try](https://veripsa.com/try) walkthrough uses a public
+> sandbox to show the verdict on a concrete PR. This page focuses on
+> **what the verdict looks like** so you can recognise it on your own
+> repo.
 
 ### Step 1 — open PR A
 
